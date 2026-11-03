@@ -1,0 +1,16 @@
+name: appointment_backend
+description: A simple command-line application.
+version: 1.0.0
+# repository: https://github.com/my_org/my_repo
+
+environment:
+  sdk: ^3.13.7
+
+# Add regular dependencies here.
+dependencies:
+  shelf: ^1.4.3
+  sqlite3: ^3.8.0
+  # path: ^1.9.0
+
+dev_dependencies:
+  lints: ^6.0.0
